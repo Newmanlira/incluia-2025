@@ -1,0 +1,41 @@
+https://drive.google.com/drive/u/0/folders/1OvAtAQ1VksReqinSsZGxz0Wm2HaDrplG
+
+manifesto_e_diretrizes_incluia.md
+
+Descrição: Manifesto oficial do projeto e guia de diretrizes estratégicas. Consolida a missão da auditoria cívica, o alinhamento com a defesa da classe docente (proteção contra o burnout) e a formatação analítica para a candidatura ao Global Teacher Prize (eixo Teacher of Teachers).
+
+clusters_vulnerabilidade_municipios_2025.csv
+
+Descrição: Base de dados gerada via modelagem de Machine Learning (algoritmo K-Means). Agrupa os 5.569 municípios brasileiros em tipologias de risco com base na privação de infraestrutura, identificando as redes em colapso sistêmico.
+
+privacao_suporte_municipal_2025.csv
+
+Descrição: Matriz de cruzamento analítico que detalha o volume absoluto de escolas municipais e capitais desprovidas de suporte especializado (Salas de AEE e recursos pedagógicos adaptados).
+
+sobrecarga_docente_precisa_2025.csv
+
+Descrição: Arquivo com os indicadores específicos de pressão estrutural e desproporção no atendimento, correlacionando a ausência de recursos à sobrecarga de trabalho do professor regente da sala regular.
+
+sobrecarga_docente_consolidada_2025.csv
+
+Descrição: Base consolidada de métricas estritas de apoio escolar e indicadores de privação de infraestrutura de suporte por rede municipal.
+
+sobrecarga_docente_municipios_2025.csv
+
+Descrição: Detalhamento municipal dos impactos diretos da falta de infraestrutura física sobre a mediação pedagógica e o esgotamento docente.
+
+ranking_criticidade_municipios_2025.csv
+
+Descrição: Ranking nacional completo ordenando todas as redes municipais do Brasil pelo seu Índice de Exclusão e criticidade estrutural.
+
+dossie_executivo_inclusao.md
+
+Descrição: Nota executiva de síntese contendo os principais achados estatísticos do Censo Escolar, ideal para apresentações institucionais rápidas e defesa de impacto social.
+
+deficit_inclusao_uf_2025.csv
+
+Descrição: Panorama estatístico agregado por Unidade Federativa (UF), evidenciando as assimetrias regionais e o isolamento educacional nas diferentes regiões do país.
+
+pdfs_nacionais/
+
+Descrição: Diretório estruturado contendo a árvore de pastas por estado ([UF]). Armazena os relatórios individuais em PDF de todos os municípios brasileiros, gerados automaticamente e estruturados para protocolo e envio formal às Secretarias de Educação e Ouvidorias.
